@@ -1,0 +1,69 @@
+# ───────────
+# Python
+# ───────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Archivos de configuración locales
+*.local
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+.notebooks_cache/
+*.ipynb_checkpoint
+
+# Logs
+*.log
+logs/
+
+# Datos temporales
+tmp/
+temp/
+*.tmp
+
+# ───────────
+# IDEs / editores
+# ───────────
+.vscode/
+.idea/
+*.iml
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# ───────────
+# Proyecto concreto
+# ───────────
+# Salidas de frames o capturas
+output/
+captures/
+recordings/
+
+# Modelos o ficheros grandes
+models/
+*.tflite
+*.onnx
+
+# Sonidos de prueba grandes
+data/sounds/*.mp3
+data/sounds/*.wav
+
+# Si generas CSV de eventos
+data/*.csv
