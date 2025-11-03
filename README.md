@@ -133,4 +133,3 @@ Presiona `q` o usa **Ctrl+C** para salir.
 Repositorio y issues en GitHub: `https://github.com/dsanchezp25/drowsiness-detector`
 
 ---
-```
